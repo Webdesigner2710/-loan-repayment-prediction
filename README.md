@@ -1,1 +1,1 @@
-# -loan-repayment-prediction
+# loan-repayment-prediction
